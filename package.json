@@ -1,0 +1,27 @@
+{
+  "name": "api_nodejs",
+  "version": "1.0.0",
+  "description": "API com CRUD de usuário para utilizar em projetos React e React Native.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudionorjr/api_nodeJS.git"
+  },
+  "author": "Claudionor Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudionorjr/api_nodeJS/issues"
+  },
+  "homepage": "https://github.com/claudionorjr/api_nodeJS#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "config": "^3.3.1",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.4"
+  }
+}
