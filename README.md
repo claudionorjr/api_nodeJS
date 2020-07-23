@@ -8,4 +8,4 @@
 
 ## Rotas 
 
-* Acessar a url `http://localhost:5000/`
+* Acessar a url `http://localhost:3000/`
